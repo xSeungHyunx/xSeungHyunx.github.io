@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streaaam</title>
+    <link>http://streaaam.org/</link>
+    <description>Recent content on Streaaam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Apr 2021 15:58:43 -0500</lastBuildDate>
+    
+	<atom:link href="http://streaaam.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faq</title>
+      <link>http://streaaam.org/faq/</link>
+      <pubDate>Sat, 10 Apr 2021 15:58:43 -0500</pubDate>
+      
+      <guid>http://streaaam.org/faq/</guid>
+      <description>&#34;How do I get my music on streaaam?&#34; Currently only current and maybe past Columbia College student&#39;s are able to submit music to the stream.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://streaaam.org/schedule/</link>
+      <pubDate>Sat, 10 Apr 2021 15:54:07 -0500</pubDate>
+      
+      <guid>http://streaaam.org/schedule/</guid>
+      <description> Here is our stream schedule, updated monthly   </description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://streaaam.org/about-us/</link>
+      <pubDate>Sat, 10 Apr 2021 15:54:01 -0500</pubDate>
+      
+      <guid>http://streaaam.org/about-us/</guid>
+      <description>Who we are: Streaaam is an online music streaming server run by and created by columbia college students. Led by Florien Hollerweger, we are always working on improving the stream.
+Our Documentation: Here we would add a css link that would either embed our git work or maybe a link to it.</description>
+    </item>
+    
+    <item>
+      <title>Yeehaw</title>
+      <link>http://streaaam.org/artists/yeehaw/</link>
+      <pubDate>Wed, 07 Apr 2021 12:34:06 -0500</pubDate>
+      
+      <guid>http://streaaam.org/artists/yeehaw/</guid>
+      <description>Yeehaw is a band created by balhasdlkfj;asjf;sadjfsad;lfkjjsa;ldfjas;fksdf asdfkj;asfj;lsdafj;aslfjas;lfjsa;f asdflja;slkdfj;asldkfj;las asdf;lkas;fjas;kfjasdfj</description>
+    </item>
+    
+  </channel>
+</rss>
